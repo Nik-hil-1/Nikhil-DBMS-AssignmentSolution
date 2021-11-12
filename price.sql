@@ -14,4 +14,3 @@ insert into PRICE(Bus_Type, Distance, Price) values('Sitting', 1200, 1488);
 insert into PRICE(Bus_Type, Distance, Price) values('Sitting', 1500, 1860);
 
 select * from price;
-truncate table price;
